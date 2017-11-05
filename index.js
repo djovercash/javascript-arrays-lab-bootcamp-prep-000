@@ -4,4 +4,3 @@ function destructivelyAppendKitten (array, element) {
   window.kittens.push('Ralph');
   return window.kittens;
 };
-
